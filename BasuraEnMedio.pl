@@ -10,7 +10,7 @@
 # Si observas algun error o quieres comentar algo, puedes ponerte en contacto conmigo a traves de:             
 # http://sites.google.com/site/usrdxt/ 
 
-# Compatibilidad para línea de comandos de WindowsXP
+# Compatibilidad para linea de comandos de WindowsXP
 #binmode(STDOUT, ":encoding(cp850)");
 #binmode(STDIN, ":encoding(cp850)");    
                                                                                           
@@ -22,7 +22,7 @@ $CaracteresMensaje = length($mensaje);
 
 # Aqui introducimos los caracteres que forman parte del mensaje descifrado, segun la clave que tuvieramos para descifrarlo.
 #
-# El primer caracter tiene la posicion 0. Para que el primer caracter tenga la posición 1, utilizaremos otra variable llamada $ClaveEn1.
+# El primer caracter tiene la posicion 0. Para que el primer caracter tenga la posicion 1, utilizaremos otra variable llamada $ClaveEn1.
 # 
 print "Introduce las posiciones relevantes para leer el mensaje. Introduce los valores dando al Intro.\n";
 print "Cuando hayas terminado de introducir las posiciones relevantes, teclea DESCIFRAR.\n";
