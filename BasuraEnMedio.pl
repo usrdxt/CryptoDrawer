@@ -1,6 +1,6 @@
 # Script "BasuraEnMedio.pl"  
 #
-# Este script esta basado en el articulo "Criptografía Clasica (III)" realizado por
+# Este script esta basado en el articulo "Criptografia Clasica (III)" realizado por
 # el usuario "darthje" y alojado en Kriptopolis.org en la siguiente URL:
 # http://www.kriptopolis.org/criptografia-clasica-iii                          
 #                                                                                                    
